@@ -1,0 +1,24 @@
+name: Update Github stats card
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  update-readme-with-stats:
+    name: Update readme with stats
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Set up Node.js
+        uses: actions/setup-node@v1
+        with:
+          node-version: '14.x'
+      - name: Install dependencies
+        run: |
+          npm install
+      - name: Update Github stats card
+        uses: jamesgeorge007/github-stats-activity@master
+        with:
+          USERNAME: ${{ secrets.MervePolat977 }}
