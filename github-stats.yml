@@ -1,0 +1,28 @@
+name: Update GitHub stats
+on:
+  schedule:
+    - cron: '0 * * * *' # Run every hour
+jobs:
+  update-stats:
+    name: Update GitHub stats
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+      - name: Setup Node.js
+        uses: actions/setup-node@v2.3.0
+        with:
+          node-version: '14'
+      - name: Install dependencies
+        run: npm install
+      - name: Update stats
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: npm run update-stats
+      - name: Commit and push changes
+        run: |
+          git config --global user.name 'GitHub Actions'
+          git config --global user.email 'actions@github.com'
+          git add .
+          git commit -m 'Update GitHub stats'
+          git push
