@@ -1,6 +1,6 @@
 ### Hi there 👋
 <!--
-[![Merve's GitHub stats](https://github-readme-stats.vercel.app/api?username=MervePolat977)](https://github.com/MervePolat977/github-readme-stats)
+ - [![Merve's GitHub stats](https://github-readme-stats.vercel.app/api?username=MervePolat977)](https://github.com/MervePolat977/github-readme-stats)
 -->
 
 ☺️ I am Merve. Welcome to my GitHub profile.  
