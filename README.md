@@ -14,6 +14,7 @@ Currently, I am learning web development using **HTML-CSS-Javascript and React**
 ![Github stats 1](https://github-readme-stats.vercel.app/api?username=MervePolat977&show_icons=true&theme=gradient) 
 ![Github stats 2](https://github-readme-stats.vercel.app/api?username=MervePolat977&show_icons=true&theme=radical)  
 
+
 <!-- 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MervePolat977)](https://github.com/MervePolat977/github-readme-stats)
 -->
