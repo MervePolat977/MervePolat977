@@ -21,4 +21,4 @@ jobs:
       - name: Update Github stats card
         uses: jamesgeorge007/github-stats-activity@master
         with:
-          USERNAME: ${{ secrets.GITHUB_USERNAME }}
+          USERNAME: ${{ secrets.GITHUB_MervePolat977 }}
