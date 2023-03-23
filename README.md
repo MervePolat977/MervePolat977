@@ -1,7 +1,4 @@
 ### Hi there 👋
-<!--
- - [![Merve's GitHub stats](https://github-readme-stats.vercel.app/api?username=MervePolat977)](https://github.com/MervePolat977/github-readme-stats)
--->
 
 ☺️ I am Merve. Welcome to my GitHub profile.  
 😄 Pronouns: She/Her  
@@ -9,17 +6,25 @@
 👩🏻‍💻 My major is **Software Engineering.**  
 ✨ Currently, I am learning web development using **HTML-CSS-Javascript and React**  
 
----
+## Languages and Tools
+
+<div style="display:flex; justify-content:space-between;">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/2048px-HTML5_logo_and_wordmark.svg.png" alt="HTML" width="50" height="50"/>         
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS" width="50" height="50" style="margin-right: 10px;"/>
+<img src="https://i0.wp.com/blogs.embarcadero.com/wp-content/uploads/2020/08/JavaScript-logo.png?ssl=1" alt="JavaScript" width="50" height="50" style="margin-right: 10px;"/>
+<img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_reactjs_icon_130205.png" alt="React" width="50" height="50" style="margin-right: 10px;"/>
+<img src="https://www.kindpng.com/picc/m/403-4039227_c-language-logo-png-transparent-png.png" alt="C" width="50" height="50" style="margin-right
+<img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_postgresql_icon_130263.png" alt="PostgreSQL" width="50" height="50" style="margin-right: 10px;"/>
+<img src="https://w7.pngwing.com/pngs/173/36/png-transparent-postgresql-logo-computer-software-database-open-source-s-text-head-snout.png" alt="PostgreSQL" width="50" height="50" style="margin-right: 10px;"/>
+<img src="https://www.pngmart.com/files/7/Python-Transparent-Background.png" alt="PostgreSQL" width="55" height="50" style="margin-right: 0px;"/>
+
+</div>
 
 
-![Github stats 1](https://github-readme-stats.vercel.app/api?username=MervePolat977&show_icons=true&theme=gradient) 
+
+---------------------------------------------------------------------------
+
 ![Github stats 2](https://github-readme-stats.vercel.app/api?username=MervePolat977&show_icons=true&theme=radical)  
-
-
-<!-- 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MervePolat977)](https://github.com/MervePolat977/github-readme-stats)
--->
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MervePolat977&show_icons=true&theme=radical&layout=compact)
 
 ------------------------------------------------------------------------------------
@@ -34,24 +39,28 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-quare&labelColor=C13584&logo=instagram&logoColor=white&link=link)](https://www.instagram.com/mervepolat3790/)   
 
 
------------------------------
-## Languages and Tools
-
-
-<div style="display:flex; justify-content:space-between;">
-  <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_html_icon_130541.png" alt="HTML" width="50" height="50"/>         
-  <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_css_icon_130661.png" alt="CSS" width="50" height="50" style="margin-right: 10px;"/>
-  <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_js_official_icon_130509.png" alt="JavaScript" width="50" height="50" style="margin-right: 10px;"/>
-  <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_reactjs_icon_130205.png" alt="React" width="50" height="50" style="margin-right: 10px;"/>
-  <img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/c_icon_130924.png" alt="C" width="50" height="50" style="margin-right
-  <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_postgresql_icon_130263.png" alt="PostgreSQL" width="50" height="50" style="margin-right: 10px;"/>
-  <img src="https://cdn.icon-icons.com/icons2/2389/PNG/512/postgresql_logo_icon_145731.png" alt="PostgreSQL" width="50" height="50" style="margin-right: 10px;"/>
-</div>
 
 
 
 
 
+
+
+
+                                                                                                                                               
+
+
+<!-- 
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MervePolat977)](https://github.com/MervePolat977/github-readme-stats)
+-->
+
+<!--
+  [![Merve's GitHub stats](https://github-readme-stats.vercel.app/api?username=MervePolat977)](https://github.com/MervePolat977/github-readme-stats)
+-->
+
+<!--
+  ![Github stats 1](https://github-readme-stats.vercel.app/api?username=MervePolat977&show_icons=true&theme=gradient) 
+-->
 
 
 
