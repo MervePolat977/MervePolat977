@@ -6,7 +6,7 @@
 👩🏻‍💻 My major is **Software Engineering.**  
 ✨ Currently, I am learning web development using **HTML-CSS-Javascript and React**  
 
-## Languages and Tools
+## Technologies and Tools
 
 <div style="display:flex; justify-content:space-between;">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/2048px-HTML5_logo_and_wordmark.svg.png" alt="HTML" width="50" height="50"/>         
