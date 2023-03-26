@@ -1,34 +1,54 @@
-import os
-from datetime import datetime, timedelta
-from github import Github
+# GitHub Action for generating a contribution graph with a snake eating your contributions.
+name: Generate Snake
 
-# Get GitHub token from environment variable
-token = os.environ['GITHUB_TOKEN']
+# Controls when the action will run. This action runs every 6 hours.
 
-# Create a PyGithub object using the token
-g = Github(token)
+on:
+  schedule:
+      # At the end of every day
 
-# Get the authenticated user
-user = g.get_user()
+    - cron: "0 0 * * *"
 
-# Get the current date and the date one year ago
-today = datetime.today().strftime('%Y-%m-%d')
-last_year = (datetime.today() - timedelta(days=365)).strftime('%Y-%m-%d')
+# This command allows us to run the Action automatically from the Actions tab.
+  workflow_dispatch:
 
-# Loop through each day in the last year
-for date in (datetime.strptime(last_year, '%Y-%m-%d') + timedelta(n) for n in range(366)):
-    # Get the number of commits on this day
-    num_commits = len(list(user.get_commits(since=date, until=(date + timedelta(days=1)))))
+# The sequence of runs in this workflow:
+jobs:
+  # This workflow contains a single job called "build"
+  build:
+    # The type of runner that the job will run on
+    runs-on: ubuntu-latest
 
-    # Create the contribution string for this day
-    if num_commits > 0:
-        contribution = 'H' * min(num_commits // 2, 4)
-        if num_commits % 2 == 1:
-            contribution += 'h'
-    else:
-        contribution = ' '
-
-    # Update the contribution graph for this day
-    user.create_repository_invitation("snake",date);
-    g.get_repo(user.login+"/snake").create_file("README.md","Update README.md",contribution,branch="main",committer={'name': 'Snake Bot', 'email': 'snakebot@github.com'},author={'name': 'Snake Bot', 'email': 'snakebot@github.com'})
-
+    # Steps represent a sequence of tasks that will be executed as part of the job
+    steps:
+    
+    # Checks repo under $GITHUB_WORKSHOP, so your job can access it
+      - uses: actions/checkout@v2
+      
+    # Generates the snake  
+      - uses: Platane/snk@master
+        id: snake-gif
+        with:
+          github_user_name: nurgulsezgin
+          # these next 2 lines generate the files on a branch called "output". This keeps the main branch from cluttering up.
+          gif_out_path: dist/github-contribution-grid-snake.gif
+          svg_out_path: dist/github-contribution-grid-snake.svg
+          
+     # show the status of the build. Makes it easier for debugging (if there's any issues).
+      - run: git status
+          
+      # Push the changes
+      - name: Push changes
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: master
+          force: true
+          
+      - uses: crazy-max/ghaction-github-pages@v2.1.3
+        with:
+          # the output branch we mentioned above
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
