@@ -37,7 +37,10 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=your-link-here)](https://www.linkedin.com/in/merve-polat-32855619a/)
 [![Medium Badge](https://img.shields.io/badge/-Medium-757575?style=flat-quare&labelColor=757575&logo=Medium&logoColor=white&link=link)](https://medium.com/@pmervepolat977) 
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-quare&labelColor=C13584&logo=instagram&logoColor=white&link=link)](https://www.instagram.com/mervepolat3790/)   
------------------------                                                                                                                                               
+-----------------------      
+                                                                                                                                               
+                                                                                                                                               
+                                                                                                                                               
  <!--                                                                                                                                              
  ## Contact 
 <div> 
@@ -60,7 +63,6 @@
 
                                                                                                                                                
 
----------------------
 <!-- 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MervePolat977)](https://github.com/MervePolat977/github-readme-stats)
 -->
