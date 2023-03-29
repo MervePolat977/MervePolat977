@@ -32,7 +32,7 @@
   
 -----------------------------------------------------------------------------------
 
-📫 How to contact me:  
+📫 How to contact me   
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](https://github.com/MervePolat977) 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=your-link-here)](https://www.linkedin.com/in/merve-polat-32855619a/)
 [![Medium Badge](https://img.shields.io/badge/-Medium-757575?style=flat-quare&labelColor=757575&logo=Medium&logoColor=white&link=link)](https://medium.com/@pmervepolat977) 
