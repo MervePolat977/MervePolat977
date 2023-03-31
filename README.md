@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 
 ☺️ I am Merve. Welcome to my GitHub profile.  
 😄 Pronouns: She/Her  
@@ -6,8 +6,7 @@
 👩🏻‍💻 My major is **Software Engineering.**  
 ✨ Currently, I am learning web development using **HTML-CSS-Javascript and React**  
 
-## Technologies and Tools
-
+# Technologies and Tools
 <div style="display:flex; justify-content:space-between;">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/2048px-HTML5_logo_and_wordmark.svg.png" alt="HTML" width="50" height="50"/>         
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS" width="50" height="50" style="margin-right: 10px;"/>
@@ -22,8 +21,8 @@
 
 
 
----------------------------------------------------------------------------
 
+# GitHub Stats                                                                                                                                               
 ![Github stats 2](https://github-readme-stats.vercel.app/api?username=MervePolat977&show_icons=true&theme=radical)   
                                                                                                                                                                        ![](https://github-readme-streak-stats.herokuapp.com/?user=MervePolat977&theme=dark&hide_border=true)<br/> 
                                                                                                                                                                        ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MervePolat977&show_icons=true&theme=radical&layout=compact)
@@ -34,9 +33,9 @@
 ⚡ Fun fact: In the future I want to start my own business. But initially need some working experiences🎉 ![coding cat](https://media.giphy.com/media/unQ3IJU2RG7DO/giphy.gif)
  
   
------------------------------------------------------------------------------------
 
-📫 How to contact me   
+
+# 📫 How to contact me   
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](https://github.com/MervePolat977) 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=your-link-here)](https://www.linkedin.com/in/merve-polat-32855619a/)
 [![Medium Badge](https://img.shields.io/badge/-Medium-757575?style=flat-quare&labelColor=757575&logo=Medium&logoColor=white&link=link)](https://medium.com/@pmervepolat977) 
@@ -48,8 +47,7 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-                                                                                                                                               
------------------------      
+                                                                                                                                                   
                                                                                                                                                
                                                                                                                                                
                                                                                                                                                
