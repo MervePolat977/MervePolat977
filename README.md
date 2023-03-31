@@ -1,6 +1,6 @@
 # Hi there 👋
-
-![Snake Eating away my contributions](https://github.com/asimkilic/asimkilic/blob/output/github-contribution-grid-snake.gif)
+[![](https://visitcount.itsvg.in/api?id=MervePolat977&icon=0&color=0)](https://visitcount.itsvg.in)
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ☺️ I am Merve. Welcome to my GitHub profile.  
 ✨ Currently, I am learning web development using **HTML-CSS-Javascript and React**  
@@ -22,7 +22,7 @@
 
 
 # GitHub Stats                                                                                                                                               
-![Github stats 2](https://github-readme-stats.vercel.app/api?username=MervePolat977&show_icons=true&theme=radical)   
+![Github stats 2](https://github-readme-stats.vercel.app/api?username=MervePolat977&show_icons=true&theme=radical)                                                
                                                                                                                                                                        ![](https://github-readme-streak-stats.herokuapp.com/?user=MervePolat977&theme=dark&hide_border=true)<br/> 
                                                                                                                                                                        ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MervePolat977&show_icons=true&theme=radical&layout=compact)
 
@@ -30,8 +30,10 @@
                                                                                                                                                                                                         
 ------------------------------------------------------------------------------------
 ⚡ Fun fact: In the future I want to start my own business. But initially need some working experiences🎉 ![coding cat](https://media.giphy.com/media/unQ3IJU2RG7DO/giphy.gif)
- 
- 
+
+# 
+![Snake Eating away my contributions](https://github.com/asimkilic/asimkilic/blob/output/github-contribution-grid-snake.gif)
+
                                                                                                                                                
 # Social
 <p align="right">
@@ -50,6 +52,14 @@
 </p>
                                                                                                                                                
 
+                                                                
+                                                                
+                                                                
+                                                                
+                                                                
+                                                                
+                                                                
+                                                                
 <!--
 # 📫 How to contact me   
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](https://github.com/MervePolat977) 
@@ -59,9 +69,7 @@
 -->   
                                                                                                                                                
                                                                                                                                                
-[![](https://visitcount.itsvg.in/api?id=MervePolat977&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
                                                                                                                                                    
                                                                                                                                                
