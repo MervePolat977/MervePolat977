@@ -1,5 +1,7 @@
 # Hi there 👋
 
+![Snake Eating away my contributions](https://github.com/asimkilic/asimkilic/blob/output/github-contribution-grid-snake.gif)
+
 ☺️ I am Merve. Welcome to my GitHub profile.  
 ✨ Currently, I am learning web development using **HTML-CSS-Javascript and React**  
 
@@ -29,15 +31,32 @@
 ------------------------------------------------------------------------------------
 ⚡ Fun fact: In the future I want to start my own business. But initially need some working experiences🎉 ![coding cat](https://media.giphy.com/media/unQ3IJU2RG7DO/giphy.gif)
  
-  
+ 
+                                                                                                                                               
+# Social
+<p align="right">
+    <a href="https://github.com/MervePolat977">
+        <img src='https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white' alt='github' height='30'>
+    </a>
+    <a href="https://www.linkedin.com/in/merve-polat-32855619a/">
+        <img src=https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='linkedin' height='30'>
+    </a>
+    <a href="https://www.instagram.com/mervepolat3790/">
+        <img src='https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white' alt='instagram' height='30'>
+    </a>
+    <a href='https://medium.com/@pmervepolat977' target="_blank">
+        <img src='https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white' />
+    </a>
+</p>
+                                                                                                                                               
 
-
+<!--
 # 📫 How to contact me   
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](https://github.com/MervePolat977) 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=your-link-here)](https://www.linkedin.com/in/merve-polat-32855619a/)
 [![Medium Badge](https://img.shields.io/badge/-Medium-757575?style=flat-quare&labelColor=757575&logo=Medium&logoColor=white&link=link)](https://medium.com/@pmervepolat977) 
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-quare&labelColor=C13584&logo=instagram&logoColor=white&link=link)](https://www.instagram.com/mervepolat3790/)   
-   
+-->   
                                                                                                                                                
                                                                                                                                                
 [![](https://visitcount.itsvg.in/api?id=MervePolat977&icon=0&color=0)](https://visitcount.itsvg.in)
