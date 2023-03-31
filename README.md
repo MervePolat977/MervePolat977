@@ -24,8 +24,12 @@
 
 ---------------------------------------------------------------------------
 
-![Github stats 2](https://github-readme-stats.vercel.app/api?username=MervePolat977&show_icons=true&theme=radical)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MervePolat977&show_icons=true&theme=radical&layout=compact)
+![Github stats 2](https://github-readme-stats.vercel.app/api?username=MervePolat977&show_icons=true&theme=radical)   
+                                                                                                                                                                       ![](https://github-readme-streak-stats.herokuapp.com/?user=MervePolat977&theme=dark&hide_border=true)<br/> 
+                                                                                                                                                                       ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MervePolat977&show_icons=true&theme=radical&layout=compact)
 
+                                                                                                                                               
+                                                                                                                                                                                                        
 ------------------------------------------------------------------------------------
 ⚡ Fun fact: In the future I want to start my own business. But initially need some working experiences🎉 ![coding cat](https://media.giphy.com/media/unQ3IJU2RG7DO/giphy.gif)
  
@@ -37,6 +41,12 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=your-link-here)](https://www.linkedin.com/in/merve-polat-32855619a/)
 [![Medium Badge](https://img.shields.io/badge/-Medium-757575?style=flat-quare&labelColor=757575&logo=Medium&logoColor=white&link=link)](https://medium.com/@pmervepolat977) 
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-quare&labelColor=C13584&logo=instagram&logoColor=white&link=link)](https://www.instagram.com/mervepolat3790/)   
+   
+                                                                                                                                               
+                                                                                                                                               
+ [![](https://visitcount.itsvg.in/api?id=ruhinalio&icon=0&color=0)](https://visitcount.itsvg.in)
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->                                                                                                                                              
+                                                                                                                                               
 -----------------------      
                                                                                                                                                
                                                                                                                                                
