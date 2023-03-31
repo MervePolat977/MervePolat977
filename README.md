@@ -1,9 +1,6 @@
 # Hi there 👋
 
 ☺️ I am Merve. Welcome to my GitHub profile.  
-😄 Pronouns: She/Her  
-📚 I am studying at Maltepe University as a 3rd year student.  
-👩🏻‍💻 My major is **Software Engineering.**  
 ✨ Currently, I am learning web development using **HTML-CSS-Javascript and React**  
 
 # Technologies and Tools
