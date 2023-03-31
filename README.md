@@ -31,8 +31,10 @@
 ------------------------------------------------------------------------------------
 ⚡ Fun fact: In the future I want to start my own business. But initially need some working experiences🎉 ![coding cat](https://media.giphy.com/media/unQ3IJU2RG7DO/giphy.gif)
 
+<!--                                                                                                                                               
 # 
 ![Snake Eating away my contributions](https://github.com/asimkilic/asimkilic/blob/output/github-contribution-grid-snake.gif)
+-->                                                                                                                                               
 
                                                                                                                                                
 # Social
