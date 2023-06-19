@@ -54,13 +54,7 @@
 
                                                                 
                                                                  
-<!--
-        <a href="https://www.instagram.com/mervepolat3790/">
-             <img src='https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white' alt='instagram' height='30'>
-        </a>                                                                                                                        
--->                                                               
-                                                                
-                                                                
+                                          
                                                                 
                                                                 
                                                                 
@@ -71,6 +65,12 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=your-link-here)](https://www.linkedin.com/in/merve-polat-32855619a/)
 [![Medium Badge](https://img.shields.io/badge/-Medium-757575?style=flat-quare&labelColor=757575&logo=Medium&logoColor=white&link=link)](https://medium.com/@pmervepolat977) 
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-quare&labelColor=C13584&logo=instagram&logoColor=white&link=link)](https://www.instagram.com/mervepolat3790/)   
+                                                                
+                                                                
+                                                                
+  <a href="https://www.instagram.com/mervepolat3790/">
+      <img src='https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white' alt='instagram' height='30'>
+  </a> 
 -->   
                                                                                                                                                
                                                                                                                                                
